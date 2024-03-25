@@ -15,7 +15,8 @@
 - "Тотем Невоса" - Создан SeFort - Предмет: Тотем бессмертия
 - "Зонтик" - Создан Mej1ch - Предмет: Любые мечи, кроме деревянного
 - "Песочные часы" - Создан Mej1ch и qwezerti - Предмет: Тотем бессмертия
-- "Nbox" - создан SeFort - Предмет: Цветочный горшок
+- "Nbox" - Cоздан SeFort - Предмет: Цветочный горшок
+- "Бейсбольная Бита" - Создан Mej1ch - Предмет: Любые мечи, кроме деревянного
 
 # Что нужно для ресурспака?
 Для этого ресурспака обязательно нужен **[Optifine](https://optifine.net/home)** или **[CIT Resewn](https://modrinth.com/mod/cit-resewn)**.
@@ -43,6 +44,7 @@ This resource pack adds textures and models to items, you can get them by renami
 - "Зонтик" - by Mej1ch - Item: Any swords except wooden ones
 - "Песочные часы" - by Mej1ch и qwezerti - Item: Totem of Undying
 - "Nbox" - by SeFort - Item: Flower Pot
+- "Бейсбольная бита" - by Mej1ch - Item: Any swords except wooden ones
 
 # What is needed for a resource pack?
 For this resource pack, you definitely need **[Optifine](https://optifine.net/home)** or **[CIT Resewn](https://modrinth.com/mod/cit-resewn)**.
