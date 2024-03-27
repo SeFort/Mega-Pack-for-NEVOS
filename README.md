@@ -3,7 +3,7 @@
 <summary>RUS</summary>
 
 # Что это?
-Это - ресурспак, созданный для Twitch стримера - N_E_V_O_S от SeFort , Mej1ch и qwezerti
+Это - ресурспак, созданный для Twitch стримера - N_E_V_O_S от MSQStudio
 
 # Что оно меняет в игре?
 Этот ресурспак добавляет текстуры и модели на предметы, получить их можно переименовав предметы в определённое название (Соблюдая синтаксис!)
@@ -17,6 +17,7 @@
 - "Песочные часы" - Создан Mej1ch и qwezerti - Предмет: Тотем бессмертия
 - "Nbox" - Cоздан SeFort - Предмет: Цветочный горшок
 - "Бейсбольная Бита" - Создан Mej1ch - Предмет: Любые мечи, кроме деревянного
+- "Пылесос" - Создан Mej1ch - Предмет: Вырезанная тыква
 
 # Что нужно для ресурспака?
 Для этого ресурспака обязательно нужен **[Optifine](https://optifine.net/home)** или **[CIT Resewn](https://modrinth.com/mod/cit-resewn)**.
@@ -30,7 +31,7 @@
 <summary>ENG</summary>
 
 # What is it?
-This is a resource pack created for the Twitch streamer - N_E_V_O_S from SeFort , Mej1ch and qwezerti
+This is a resource pack created for the Twitch streamer - N_E_V_O_S from MSQStudio
 
 # What does it change in the game?
 This resource pack adds textures and models to items, you can get them by renaming items to a specific name (observing the syntax!)
@@ -45,6 +46,7 @@ This resource pack adds textures and models to items, you can get them by renami
 - "Песочные часы" - by Mej1ch и qwezerti - Item: Totem of Undying
 - "Nbox" - by SeFort - Item: Flower Pot
 - "Бейсбольная бита" - by Mej1ch - Item: Any swords except wooden ones
+- "Пылесос" - by Mej1ch - Item: Carved Pumpkin
 
 # What is needed for a resource pack?
 For this resource pack, you definitely need **[Optifine](https://optifine.net/home)** or **[CIT Resewn](https://modrinth.com/mod/cit-resewn)**.
