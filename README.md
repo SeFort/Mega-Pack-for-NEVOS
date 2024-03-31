@@ -18,6 +18,7 @@
 - "Nbox" - Cоздан SeFort - Предмет: Цветочный горшок
 - "Бейсбольная Бита" - Создан Mej1ch - Предмет: Любые мечи, кроме деревянного
 - "Пылесос" - Создан Mej1ch - Предмет: Вырезанная тыква
+- "Инвалидная Коляска" - Создан SeFort - Предмет: Вырезанная тыква
 
 # Что нужно для ресурспака?
 Для этого ресурспака обязательно нужен **[Optifine](https://optifine.net/home)** или **[CIT Resewn](https://modrinth.com/mod/cit-resewn)**.
@@ -47,6 +48,7 @@ This resource pack adds textures and models to items, you can get them by renami
 - "Nbox" - by SeFort - Item: Flower Pot
 - "Бейсбольная бита" - by Mej1ch - Item: Any swords except wooden ones
 - "Пылесос" - by Mej1ch - Item: Carved Pumpkin
+- "Инвалидная Коляска" - by SeFort - Item: Carved Pumpkin
 
 # What is needed for a resource pack?
 For this resource pack, you definitely need **[Optifine](https://optifine.net/home)** or **[CIT Resewn](https://modrinth.com/mod/cit-resewn)**.
